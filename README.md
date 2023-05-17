@@ -52,4 +52,35 @@ systems on the web
 ![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/1489d15a-acbd-4491-b47f-f39b748647fb)
 
 
+# Chapter 6 MOBILE APP LIFE CYCLE AND STATE MANAGEMENT
+
+## 6.1 Mobile App Life Cycle
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/5250595e-cd52-4bab-a6a2-8f5bfbf993c3)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/20d61103-a77a-43d1-8aa7-9cd269d439d8)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/3f65a82d-7cb9-462e-9a3f-4f9b0b9266c5)
+
+## 6.2 Android & iOS App Life Cycle
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/fc713c21-53a3-4eb4-8acd-0d613d32751f)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/79515519-6051-4dd4-a538-61a2d2c2df1a)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/b8b277d7-560f-434b-9e40-45f3751b3fdd)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/2129c5af-99bb-4ac9-98f5-a4447ea8ed6b)
+
+## 6.3 Mobile App State Management 
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/48daaabc-cb7b-4b10-a700-172f86c1676f)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/3c57cdfa-416c-4c5b-ae3b-ef8955e48c3f)
+
+## 6.4 Redux Overview
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/36fca3d3-895b-4ac5-846c-16f996303c95)
+
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/dcf4364c-6450-4903-b82a-3a91a56df5e5)
+
 
