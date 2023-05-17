@@ -83,4 +83,27 @@ systems on the web
 
 ![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/dcf4364c-6450-4903-b82a-3a91a56df5e5)
 
+# Chapter 7 MOBILE DEVICE SENSORS
+
+## 7.1 Introduction to Mobile Device sensors
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/5e7c311d-7fee-48c8-9e3b-6d0ae9222362)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/32e1e700-9f41-4efe-bade-ad3cc3add613)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/fac7ed29-6d3a-4156-b68d-214dea0c9c7f)
+
+## 7.2 Mobile Device sensors characteristics
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/70b076e7-f7da-4c97-8880-70d1c737aff7)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/f39f8e41-0a51-4eac-8860-5704764d4d10)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/d3ecfb21-9937-4cc2-a005-7f78564cd4a8)
+
+## 7.3 Common Mobile Device sensors
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/fd3245b9-bb05-4fb2-a08f-597c62b56b74)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/e119370c-14f3-4c0a-b58b-29a8d0fde9d9)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/77b27327-d139-4a95-8cea-85083620649d)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/9f7e89c8-3c61-44a0-8373-5c90658553b9)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/5583a512-a1dd-4be8-9e28-a22151b95224)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/15097d54-4502-4c74-8d61-cae0e8189bc5)
+
+## 7.4 Develop Mobile App with device sensors
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/a7fc4e9b-badc-45dd-b9de-eaf91881828d)
+![image](https://github.com/MobDevBKU/TaiLieuOnThi/assets/69207570/c482ce1a-8b83-4759-af31-8b5bb9096016)
 
